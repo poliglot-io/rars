@@ -54,7 +54,7 @@ RARS exposes a **GIT diff for your business objects**. It's stateful execution l
 
 No more reviewing full traces, evals, and reasoning chains, but, our native observability system still provides it if you really need it.
 
-Learn more: [Persistent Memory](/develop/architecture/runtime/persistent-memory) | [Provenance](/develop/guides/foundations/provenance)
+Learn more: [Persistent Memory](https://www.poliglot.io/develop/architecture/runtime/persistent-memory) | [Provenance](https://www.poliglot.io/develop/guides/foundations/provenance)
 
 ### Trustworthy
 
@@ -64,7 +64,7 @@ RARS aligns every actor and every action around a single, collaborative represen
 
 This shared world view is what makes collaboration between humans, AI, and automated systems actually work. Everyone sees the same state. Everyone's contributions are structured the same way. And every change, down to the individual field, carries a complete chain of attribution: who, why, when, and as part of what process. That's not a forensic investigation. It's a direct lookup.
 
-Learn more: [The Collaborative Runtime](/develop/architecture/runtime/collaborative-runtime) | [Provenance](/develop/guides/foundations/provenance)
+Learn more: [The Collaborative Runtime](https://www.poliglot.io/develop/architecture/runtime/collaborative-runtime) | [Provenance](https://www.poliglot.io/develop/guides/foundations/provenance)
 
 ### Controllable
 
@@ -76,7 +76,7 @@ For example: an AI agent tries to dispatch a $250,000 electrical work order. At 
 
 You grant broad operational capability while maintaining precise control over when that capability can and should be exercised.
 
-Learn more: [Situational Access Control](/develop/architecture/trust-and-security/situational-access-control) | [The Identity Model](/develop/architecture/trust-and-security/identity-model) | [Security](/develop/guides/foundations/security)
+Learn more: [Situational Access Control](https://www.poliglot.io/develop/architecture/trust-and-security/situational-access-control) | [The Identity Model](https://www.poliglot.io/develop/architecture/trust-and-security/identity-model) | [Security](https://www.poliglot.io/develop/guides/foundations/security)
 
 ### Deterministic Orchestration & Execution
 
@@ -88,7 +88,7 @@ The AI plans. The engine executes. The plan runs as written, not re-inferred at 
 
 Every action, whether a deterministic service call or an agentic reasoning task, has an explicit I/O contract validated against your business constraints. An AI sub-agent's output is held to the same validation as a direct API response. This is **Contractual AI**: the contract guarantees the output structure regardless of how the result was produced. Continuous validation acts as compiler diagnostics for your business state, catching violations in real time.
 
-Learn more: [Contractual AI](/develop/architecture/trust-and-security/contractual-ai) | [The NeuroSymbolic Engine](/develop/architecture/runtime/neurosymbolic-engine) | [The Semantic Operating System](/develop/architecture/operating-model/semantic-os) | [Designing Actions](/develop/guides/actions)
+Learn more: [Contractual AI](https://www.poliglot.io/develop/architecture/trust-and-security/contractual-ai) | [The NeuroSymbolic Engine](https://www.poliglot.io/develop/architecture/runtime/neurosymbolic-engine) | [The Semantic Operating System](https://www.poliglot.io/develop/architecture/operating-model/semantic-os) | [Designing Actions](https://www.poliglot.io/develop/guides/actions)
 
 ## Key Concepts
 
