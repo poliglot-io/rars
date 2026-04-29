@@ -90,12 +90,6 @@ Every action, whether a deterministic service call or an agentic reasoning task,
 
 Learn more: [Contractual AI](https://www.poliglot.io/develop/architecture/trust-and-security/contractual-ai) | [The NeuroSymbolic Engine](https://www.poliglot.io/develop/architecture/runtime/neurosymbolic-engine) | [The Semantic Operating System](https://www.poliglot.io/develop/architecture/operating-model/semantic-os) | [Designing Actions](https://www.poliglot.io/develop/guides/actions)
 
-## Key Concepts
+## What comes next
 
-Before diving in, here are the foundational concepts you'll see throughout the documentation:
-
-- **Workspace**: an organizational environment where matrices are installed and your team collaborates.
-- **Context**: a persistent working environment where RARS operates. Like a business context but in the digital world: you have information in front of you, you know which systems to use, you remember what happened before, and you pick up where you left off.
-- **Matrix**: a codified operating model for a business domain. Defines the domain's concepts, rules, operations, and systems of record. Versioned, composable, installable.
-- **Action**: a declared operation RARS can execute. Can be a deterministic API call, an orchestrated multi-step workflow, an AI reasoning task, or a human approval. All share the same verifiable I/O contract.
-- **Observation**: every piece of data from your operations state, and every change RARS makes is recorded as an observation with full provenance: who, what, when, and why, and as part of which process. Your entire business becomes auditable through a unified system.
+This repository will hold our open-source distribution of the runtime and tooling, which will become available at the same time we launch the cloud platform in Beta in late-May 2026.
